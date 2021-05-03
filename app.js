@@ -8,6 +8,5 @@ document.addEventListener('DOMContentLoaded', () =>{
         eyes.forEach(eye => eye.classList.toggle('blue-eye'))
 
     }
-
       mask.addEventListener('click', changeeyes)
 })

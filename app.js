@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () =>{
+document.addEventListener('DOMContentLoaded',() =>{
    const eyes =   document.querySelectorAll('.eye')
    const mask = document.querySelector('.torso')
    const robot = document.querySelector('.robot')

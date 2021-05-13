@@ -1,3 +1,3 @@
 # AI
 
-A small model
+A small AI model

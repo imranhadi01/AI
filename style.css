@@ -22,6 +22,7 @@ body {
     display: flex;
     justify-content: center;
 }
+
 .mask{
     margin-top: 16px;
     height: 25px;
